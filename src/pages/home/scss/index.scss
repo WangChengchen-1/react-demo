@@ -1,0 +1,15 @@
+.ant-layout-header {
+  display: "flex";
+  align-items: "center";
+}
+.ant-layout-content {
+  padding: 0 48px;
+  margin-top: 10px;
+  height: calc(100vh - 128px);
+}
+.ant-layout-footer {
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
